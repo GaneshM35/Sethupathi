@@ -62,13 +62,23 @@
                   <div class="copyright">
                     <p>&copy; Copyright - sethupathi.in</p>
 					<p> <h3>Developed By</h3>
-				<h4>Section Incharge : M.Ganesh <span style="text-decoration: overline">B.E.,</span></h4></p>
+				<h4>Section Incharge : </h4></p><div id="name">Ganesh M  <span style="text-decoration: overline">B.E.,</span></div>
                   </div>
                 </div>
             </div>
         </div>
     </footer>
     
+    <style> @font-face {
+              font-family: myFirstFont;
+              src: url("fonts/DrSugiyama-Regular.woff");
+              }
+
+          #name {
+            font-family: myFirstFont;
+            font-size : 32px;
+          }
+          </style>
         <!--small footer end-->
 <?php
 include('config/config.php');

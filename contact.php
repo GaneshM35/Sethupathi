@@ -75,6 +75,7 @@ ob_start();
                   </li>
               </ul>
           </div>
+          <br>
       </div>
     </header>
     <!--header end-->
@@ -186,10 +187,7 @@ ob_start();
                     </div>
                     <div class="col-sm-9">
                       <p>
-                        Some Quotes<br>
-						<br>
-						<br>
-						Some Quotes 
+                        There is no end to education. It is not that you read a book, pass an examination, and finish with education. The whole of life, from the moment you are born to the moment you die, is a process of learning.
                       </p>
                       <!--small>
                         Someone famous
@@ -207,10 +205,7 @@ ob_start();
                     </div>
                     <div class="col-sm-9">
                       <p>
-                        Some Quotes<br>
-						<br>
-						<br>
-						Some Quotes 
+                        The goal of education is not to increase the amount of knowledge but to create the possibilities for a child to invent and discover, to create men who are capable of doing new things.
                       </p>
                       <!--small>
                         Someone famous
@@ -228,10 +223,7 @@ ob_start();
                     </div>
                     <div class="col-sm-9">
                       <p>
-                        Some Quotes<br>
-						<br>
-						<br>
-						Some Quotes 
+                       Education without values, as useful as it is, seems rather to make man a more clever devil.
                       </p>
                       <!--small>
                         Someone famous

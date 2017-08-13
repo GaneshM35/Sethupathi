@@ -72,6 +72,7 @@
                   </li>
               </ul>
           </div>
+          <br>
       </div>
     </header>
     <!--header end-->
@@ -116,6 +117,38 @@
                     </p>
                   </div>
                 </div>
+                <div class="item">
+                  <img src="image/tatabad.jpg" alt="Sethupathi Institute">
+                  <div class="carousel-caption">
+                    <p>
+                       Senthamil Institute, Townhall.
+                    </p>
+                  </div>
+                </div>
+                <div class="item">
+                  <img src="image/tatabad.jpg" alt="Sethupathi Institute">
+                  <div class="carousel-caption">
+                    <p>
+                       Ramanathapuram Study Centre.
+                    </p>
+                  </div>
+                </div>
+                <div class="item">
+                  <img src="image/tatabad.jpg" alt="Sethupathi Institute">
+                  <div class="carousel-caption">
+                    <p>
+                       Kumaran Institute, Gandhipuram.
+                    </p>
+                  </div>
+                </div>
+                <div class="item">
+                  <img src="image/tatabad.jpg" alt="Sethupathi Institute">
+                  <div class="carousel-caption">
+                    <p>
+                       Global Institute, Kavundampalayam.
+                    </p>
+                  </div>
+                </div>
               </div>
               <!-- Carousel nav -->
               <a class="carousel-control left" href="#myCarousel" data-slide="prev">
@@ -156,9 +189,6 @@
                 </h4>
                 <p>
                   School of Distance Education
-				The School at present has about 308 Spot Admission cum Learning / Information Centres CPOP (162)
-				spreading all-over India and the number is steadily increasing as more and more evince interest 
-				in starting Spot Admission cum Learning /Information Centres.
 				</p>
               </div>
             </div>
@@ -172,11 +202,7 @@
                   Periyar University
                 </h4>
                 <p>
-                  The Periyar Institute Of Distance Education (PRIDE)
-					The Periyar University has established a directorate for distance education namely PERIYAR 
-					INSTITUTE OF DISTANCE EDUCATION (PRIDE). The PRIDE has been started functioning from the year 2001-2002. 
-					The PRIDE offers various undergraduate and postgraduate courses.
-					The course materials are supplied to the students well in advance.
+                  The Periyar Institute Of Distance Education
                 </p>
               </div>
             </div>
@@ -189,13 +215,55 @@
                  Tamilnadu Open University
                 </h4>
                 <p>
-                  tnou
-				  tnou
+                  tnou			  tnou
 				  </p>
               </div>
             </div>
           
 		  </div>
+
+      <div class="col-xs-12 col-sm-6 col-md-4">
+            <div class="thumbnail wow fadeInUp" data-wow-delay=".3s">
+              <img src="image/rvd.jpg" alt="RVD University">
+              <div class="caption">
+                <h4>
+                  Rajasthan University
+                </h4>
+                <p>
+                  Udaipur
+        </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xs-12 col-sm-6 col-md-4">
+            <div class="thumbnail wow fadeInUp" data-wow-delay=".3s">
+              <img src="image/tamil.jpg" alt="Tamil University">
+              <div class="caption">
+                <h4>
+                  Tamil University
+                </h4>
+                <p>
+                  Tamil University
+        </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xs-12 col-sm-6 col-md-4">
+            <div class="thumbnail wow fadeInUp" data-wow-delay=".3s">
+              <img src="image/au.jpg" alt="Bharathiar University">
+              <div class="caption">
+                <h4>
+                  Alagappa University
+                </h4>
+                <p>
+                  Alagappa University
+        </p>
+              </div>
+            </div>
+          </div>
+
 
         
         <!-- End row -->

@@ -72,92 +72,81 @@
                   </li>
               </ul>
           </div>
+          <br>
       </div>
     </header>
 <!--header end-->
 
     <!-- Sequence Modern Slider -->
-    <div id="sequence-theme" class="sequence-inner">
-      <div id="sequence">
-        <img class="sequence-prev" src="assets\bxslider\images\left.png" alt="Previous" style="display: inline;">
-        <img class="sequence-next" src="assets\bxslider\images\right.png" alt="Next" style="display: inline;">
-
-        <ul class="sequence-canvas">
-          <li class="animate-out" style="display: list-item; z-index: 1;">
-            <div class="info" style="">
-              <h2><font color="red" face="gungsuh" size="5">Bharathiyar SDE</font></h2>
-              <p style="margin-right: 20px;">
-                <font color="green" face="gungsuh" size="4" style="margin-left: 44px;width: 331px;">
-                  The School of Distance Education (SDE) of Bharathiar University was established during the Academic Year 1991-92;<br>
-                </font>
-              </p>
+    <br>
+    <div class="row">
+    <div id="university" class="carousel slide wow">
+              <!-- Carousel items -->
+              <div class="carousel-inner">
+                <div class="active item">
+                  <img src="image/BU.jpg" alt="Sethupathi IHS">
+                  <div class="carousel-caption">
+                    <p>
+                       Bharathiyar University, Coimbatore.
+                    </p>
+                  </div>
+                </div>
+                <div class="item">
+                  <img src="image/au.jpg" alt="Senthur Institute">
+                  <div class="carousel-caption">
+                    <p>
+                       Alagappa University, Karaikudi.
+                    </p>
+                  </div>
+                </div>
+                <div class="item">
+                  <img src="image/tamil.jpg" alt="Sethupathi Institute">
+                  <div class="carousel-caption">
+                    <p>
+                       Tamil University, Thanjavur.
+                    </p>
+                  </div>
+                </div>
+                <div class="item">
+                  <img src="image/tnou.jpg" alt="Sethupathi Institute">
+                  <div class="carousel-caption">
+                    <p>
+                       Tamilnadu Open University, Chennai.
+                    </p>
+                  </div>
+                </div>
+                <div class="item">
+                  <img src="image/rvd.jpg" alt="Sethupathi Institute">
+                  <div class="carousel-caption">
+                    <p>
+                       Rajasthan University, Jaipur.
+                    </p>
+                  </div>
+                </div>
+                <div class="item">
+                  <img src="image/periyar.jpg" alt="Sethupathi Institute">
+                  <div class="carousel-caption">
+                    <p>
+                       Periyar University, Selam.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <!-- Carousel nav -->
+              <a class="carousel-control left" href="#university" data-slide="prev">
+                <i class="fa fa-angle-left">
+                </i>
+              </a>
+              <a class="carousel-control right" href="#university" data-slide="next">
+                <i class="fa fa-angle-right">
+                </i>
+              </a>
             </div>
-            <img class="sky" src="image/BU.jpg" alt="Bharathiyar SDE" style="">
-           </li>
-          <li class="animate-in" style="display: list-item; z-index: 3;">
-            <div class="info" style="">
-              <h2>
-              	Periyar (PRIDE)
-              </h2>
-              <p>
-              	<font color="green">
-                   The Periyar University has established a directorate for distance education namely PERIYAR INSTITUTE OF DISTANCE EDUCATION (PRIDE). The PRIDE has been started functioning from the year 2001-2002.
-                </font>
-              </p>
-            </div>
-            <img class="sky" src="image/pride.jpg" alt="Periyar PRIDE" style="">
-           </li>
-          <li class="animate-out" style="display: list-item; z-index: 1;">
-            <div class="info" style="">
-              <h2>
-                Tamil University
-              </h2>
-              <p>
-                <font color="green">Tamil University ....................... </font>
-              </p>
-            </div>
-            <img class="sky" src="image/tamil.jpg" alt="Tamil University" style="">
-           </li>
-		  <li class="animate-in" style="display: list-item; z-index: 3;">
-            <div class="info" style="">
-              <h2>
-              	Tamilnadu Open University
-              </h2>
-              <p>
-              	<font color="green">TNOU................................</font>
-              </p>
-            </div>
-            <img class="sky" src="image/tnou.jpg" alt="Tamilnadu OU" style="">
-            <!--img class="aeroplane" src="images/standard.jpg" alt="Aeroplane" style=""-->
-          </li>
-          <li class="animate-out" style="display: list-item; z-index: 1;">
-            <div class="info" style="">
-              <h2>
-                Alagappa University
-              </h2>
-              <p>
-                <font color="green">Alagappa University ....................... </font>
-              </p>
-            </div>
-            <img class="sky" src="image/au.jpg" alt="Alagappa University" style="">
-            <!--img class="kite" src="images/sw_develop.jpg" alt="Kite" style=""-->
-          </li>
-		  <li class="animate-in" style="display: list-item; z-index: 3;">
-            <div class="info" style="">
-              <h2>
-              	Rajasthan Vidhyapeeth University
-              </h2>
-              <p>
-              	<font color="green">RVD...........................................</font>
-              </p>
-            </div>
-            <img class="sky" src="image/rvd.jpg" alt="Rajasthan VDU" style="">
-             </li>
-        </ul>
-      </div>
     </div>
-    <!--/sequence-theme-->
-    <!-- End of Sequence Modern Slider -->
+
+
+
+          
  <div class="container">
  	<div class="row mar-b-50">
         <div class="col-md-12">
@@ -297,7 +286,7 @@
                 </div>
               </div>
               <div class="item view view-tenth">
-                <img src="image/black.jpg" alt="Peelamedu">
+                <img src="image/peelamedu.jpg" alt="Peelamedu">
                 <div class="mask">
                   <a href="#" class="info" data-toggle="tooltip" data-placement="top" title="Peelamedu">
                     <i class="fa fa-link">
@@ -306,9 +295,9 @@
                 </div>
               </div>
               <div class="item view view-tenth">
-                <img src="image/black.jpg" alt="Gandhipuram">
+                <img src="image/tirupur.jpg" alt="Tirupur">
                 <div class="mask">
-                  <a href="#" class="info" data-toggle="tooltip" data-placement="top" title="Gandhipuram">
+                  <a href="#" class="info" data-toggle="tooltip" data-placement="top" title="Tirupur">
                     <i class="fa fa-link">
                     </i>
                   </a>
@@ -324,7 +313,7 @@
                 </div>
               </div>
               <div class="item view view-tenth">
-                <img src="image/black.jpg" alt="Ganapathy">
+                <img src="image/tatabad.jpg" alt="Ganapathy">
                 <div class="mask">
                   <a href="#" class="info" data-toggle="tooltip" data-placement="top" title="Ganapathy">
                     <i class="fa fa-link">
@@ -342,7 +331,7 @@
                 </div>
               </div>
               <div class="item view view-tenth">
-                <img src="image/black.jpg" alt="Ramanathapuram">
+                <img src="image/tatabad.jpg" alt="Ramanathapuram">
                 <div class="mask">
                   <a href="#" class="info" data-toggle="tooltip" data-placement="top" title="Ramanathapuram">
                     <i class="fa fa-link">
@@ -351,36 +340,36 @@
                 </div>
               </div>
               <div class="item view view-tenth">
-                <img src="image/tatabad.jpg" alt="Tatabad">
+                <img src="image/tatabad.jpg" alt="Gandhipuram">
                 <div class="mask">
-                  <a href="#" class="info" data-toggle="tooltip" data-placement="top" title="Tracking">
+                  <a href="#" class="info" data-toggle="tooltip" data-placement="top" title="Gandhipuram">
                     <i class="fa fa-link">
                     </i>
                   </a>
                 </div>
               </div>
               <div class="item view view-tenth">
-                <img src="image/tatabad.jpg" alt="Tatabad">
+                <img src="image/black.jpg" alt="Tirupur">
                 <div class="mask">
-                  <a href="#" class="info" data-toggle="tooltip" data-placement="top" title="Tracking">
+                  <a href="#" class="info" data-toggle="tooltip" data-placement="top" title="Tirupur">
                     <i class="fa fa-link">
                     </i>
                   </a>
                 </div>
               </div>
               <div class="item view view-tenth">
-                <img src="image/tatabad.jpg" alt="Tatabad">
+                <img src="image/tatabad.jpg" alt="Palladam">
                 <div class="mask">
-                  <a href="#" class="info" data-toggle="tooltip" data-placement="top" title="Tracking">
+                  <a href="#" class="info" data-toggle="tooltip" data-placement="top" title="Palladam">
                     <i class="fa fa-link">
                     </i>
                   </a>
                 </div>
               </div>
               <div class="item view view-tenth">
-                <img src="image/tatabad.jpg" alt="Tatabad">
+                <img src="image/black.jpg" alt="Tirupur">
                 <div class="mask">
-                  <a href="#" class="info" data-toggle="tooltip" data-placement="top" title="Tracking">
+                  <a href="#" class="info" data-toggle="tooltip" data-placement="top" title="Tirupur">
                     <i class="fa fa-link">
                     </i>
                   </a>
@@ -435,10 +424,7 @@
                     </div>
                     <div class="col-sm-9">
                       <p>
-                        Some Quotes<br>
-						<br>
-						<br>
-						Some Quotes 
+                        Education is the most powerful weapon which you can use to change the world.
                       </p>
                       <!--small>
                         Someone famous
@@ -456,10 +442,7 @@
                     </div>
                     <div class="col-sm-9">
                       <p>
-                        Some Quotes<br>
-						<br>
-						<br>
-						Some Quotes 
+                        Education is the passport to the future, for tomorrow belongs to those who prepare for it today.
                       </p>
                       <!--small>
                         Someone famous
@@ -477,10 +460,7 @@
                     </div>
                     <div class="col-sm-9">
                       <p>
-                        Some Quotes<br>
-						<br>
-						<br>
-						Some Quotes 
+                        Develop a passion for learning. If you do, you will never cease to grow.
                       </p>
                       <!--small>
                         Someone famous
@@ -510,7 +490,6 @@
     <!-- js placed at the end of the document so the pages load faster-->
 <script src="js/jquery.js">
 </script>
--->
     <script src="js/jquery-1.8.3.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/hover-dropdown.js"></script>
@@ -532,8 +511,8 @@
     <!-- Sequence Moder -slider js -->
     <script src="js/seq-slider/jquery.sequence-min.js">
     </script>
-    <script src="js/seq-slider/sequencejs-options.sliding-horizontal-parallax.js">
-    </script>
+    <!-- <script src="js/seq-slider/sequencejs-options.sliding-horizontal-parallax.js">
+    </script> -->
     <!-- end of sequence slider js-->
 
     <!--script type="text/javascript">
@@ -566,7 +545,14 @@
         });
       });
 
-
+      wow = new WOW(
+        {
+          boxClass:     'wow',      // default
+          animateClass: 'animated', // default
+          offset:       0          // default
+        }
+      )
+        wow.init();
 
       $(document).ready(function() {
 
@@ -578,11 +564,9 @@
 
       });
 
-      jQuery(document).ready(function(){
-        jQuery('ul.superfish').superfish();
-      });
+      
 
-      new WOW().init();
+      //new WOW().init();
 
 
     </script>

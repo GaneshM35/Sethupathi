@@ -75,6 +75,7 @@
                   </li>
               </ul>
           </div>
+          <br>
       </div>
     </header>
     <!--header end-->
@@ -156,7 +157,7 @@
           <h4 class="modal-title">Bharathiyar University- UG</h4>
         </div>
         <div class="modal-body">
-          <iframe src="courses/BU/UG.php" width=100% height=90% >
+          <iframe src="courses/BU/UG.php" width=100% height=100% >
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -166,10 +167,10 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">PG</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#bupg">PG</button>
 
   <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
+  <div class="modal fade" id="bupg" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
@@ -179,7 +180,7 @@
           <h4 class="modal-title">Bharathiyar University- PG</h4>
         </div>
         <div class="modal-body">
-          <iframe src="courses/BU/PG.php" width=AUTO height=AUTO >
+          <iframe src="courses/BU/PG.php" width=100% height=100%>
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -189,10 +190,10 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">PG Diploma</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#budip">PG Diploma</button>
 
   <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
+  <div class="modal fade" id="budip" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
@@ -202,7 +203,7 @@
           <h4 class="modal-title">Bharathiyar University-PG Diploma</h4>
         </div>
         <div class="modal-body">
-          <iframe src="courses/BU/Diploma.php" width="550px" height="300px" >
+          <iframe src="courses/BU/Diploma.php"  width=100% height=100% >
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -212,10 +213,10 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Professional</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#bupc">Professional</button>
 
   <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
+  <div class="modal fade" id="bupc" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
@@ -225,7 +226,7 @@
           <h4 class="modal-title">Bharathiyar University-MBA</h4>
         </div>
         <div class="modal-body">
-          <iframe src="courses/BU/MBA.php" width="550px" height="300px" >
+          <iframe src="courses/BU/MBA.php"  width=100% height=100%>
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -242,10 +243,10 @@
             <h4>
             <b> Periyar University</b>
             </h4>
-            <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">UG</button>
+            <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#puug">UG</button>
 
   <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
+  <div class="modal fade" id="pugu" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
@@ -255,7 +256,7 @@
           <h4 class="modal-title">Periyar University- UG</h4>
         </div>
         <div class="modal-body">
-          <iframe src="courses/Pride/UG.php" width="550px" height="300px" >
+          <iframe src="courses/Pride/UG.php" width=100% height=100% >
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -265,20 +266,20 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">PG</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#pupg">PG</button>
 
   <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
+  <div class="modal fade" id="pupg" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Periyar University</h4>
+          <h4 class="modal-title">Periyar University - PG</h4>
         </div>
         <div class="modal-body">
-          <iframe src="bucourses.php" width="550px" height="300px" >
+          <iframe src="courses/Pride/PG.php" width=100% height=100% >
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -288,20 +289,20 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Diploma</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#pudip">Diploma</button>
 
   <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
+  <div class="modal fade" id="pudip" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Periyar University</h4>
+          <h4 class="modal-title">Periyar University - Diploma</h4>
         </div>
         <div class="modal-body">
-          <iframe src="bucourses.php" width="550px" height="300px" >
+          <iframe src="courses/Pride/Diploma.php" width=100% height=100%>
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -311,20 +312,20 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Profeesional</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#pupc">Profeesional</button>
 
   <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
+  <div class="modal fade" id="pupc" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Periyar University</h4>
+          <h4 class="modal-title">Periyar University - Professional</h4>
         </div>
         <div class="modal-body">
-          <iframe src="bucourses.php" width="550px" height="300px" >
+          <iframe src="courses/Pride/MBA.php" width=100% height=100%>
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -341,10 +342,10 @@
             <h4>
             <b> Tamil University</b></a>
             </h4>
-            <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">UG</button>
+            <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#tuug">UG</button>
 
   <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
+  <div class="modal fade" id="tuug" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
@@ -354,7 +355,7 @@
           <h4 class="modal-title">Tamil University</h4>
         </div>
         <div class="modal-body">
-          <iframe src="bucourses.php" width="550px" height="300px" >
+          <iframe src="courses/Pride/UG.php" width=100% height=100%>
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -364,10 +365,10 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">PG</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#tupg">PG</button>
 
   <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
+  <div class="modal fade" id="tupg" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
@@ -377,7 +378,7 @@
           <h4 class="modal-title">Tamil University</h4>
         </div>
         <div class="modal-body">
-          <iframe src="bucourses.php" width="550px" height="300px" >
+          <iframe src="courses/Pride/PG.php" width=100% height=100%>
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -387,10 +388,10 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Diploma</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#tudip">Diploma</button>
 
   <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
+  <div class="modal fade" id="tudip" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
@@ -400,7 +401,7 @@
           <h4 class="modal-title">Tamil University</h4>
         </div>
         <div class="modal-body">
-          <iframe src="bucourses.php" width="550px" height="300px" >
+          <iframe src="courses/Pride/Diploma.php" width=100% height=100%>
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -410,10 +411,10 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Profeesional</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#tupc">Profeesional</button>
 
   <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
+  <div class="modal fade" id="tupc" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
@@ -423,7 +424,7 @@
           <h4 class="modal-title">Tamil University</h4>
         </div>
         <div class="modal-body">
-          <iframe src="bucourses.php" width="550px" height="300px" >
+          <iframe src="courses/Pride/MBA.php" width=100% height=100%>
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -440,20 +441,20 @@
             <h4>
             <b> Tamilnadu Open University</b>
             </h4>
-            <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">UG</button>
+            <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#ug">UG</button>
 
   <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
+  <div class="modal fade" id="ug" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Tamilnadu Open University</h4>
+          <h4 class="modal-title">Under Graduate Courses</h4>
         </div>
         <div class="modal-body">
-          <iframe src="bucourses.php" width="550px" height="300px" >
+          <iframe src="courses/BU/UG.php" width=100% height=100%>
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -463,20 +464,20 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">PG</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#pg">PG</button>
 
   <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
+  <div class="modal fade" id="pg" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Tamilnadu Open University</h4>
+          <h4 class="modal-title">Post Graduate - Courses</h4>
         </div>
         <div class="modal-body">
-          <iframe src="bucourses.php" width="550px" height="300px" >
+          <iframe src="courses/BU/PG.php" width=100% height=100%>
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -486,20 +487,20 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Diploma</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#dip">Diploma</button>
 
   <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
+  <div class="modal fade" id="dip" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Tamilnadu Open University</h4>
+          <h4 class="modal-title">Diploma Courses</h4>
         </div>
         <div class="modal-body">
-          <iframe src="bucourses.php" width="550px" height="300px" >
+          <iframe src="courses/Pride/Diploma.php" width=100% height=100%>
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -509,20 +510,20 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Profeesional</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#mba">Profeesional</button>
 
   <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
+  <div class="modal fade" id="mba" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Tamilnadu Open University</h4>
+          <h4 class="modal-title">Professional Courses</h4>
         </div>
         <div class="modal-body">
-          <iframe src="bucourses.php" width="550px" height="300px" >
+          <iframe src="courses/Pride/MBA.php" width=100% height=100%>
 			</iframe>
         </div>
         <div class="modal-footer">
@@ -540,7 +541,7 @@
             <h4>
             <b> Alagappa University</b>
             </h4>
-            <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">UG</button>
+            <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#ug">UG</button>
 
   <!-- Modal -->
   <div class="modal fade" id="myModal" role="dialog">
@@ -563,7 +564,7 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">PG</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#pg">PG</button>
 
   <!-- Modal -->
   <div class="modal fade" id="myModal" role="dialog">
@@ -586,7 +587,7 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Diploma</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#dip">Diploma</button>
 
   <!-- Modal -->
   <div class="modal fade" id="myModal" role="dialog">
@@ -609,7 +610,7 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Profeesional</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#mba">Profeesional</button>
 
   <!-- Modal -->
   <div class="modal fade" id="myModal" role="dialog">
@@ -640,7 +641,7 @@
             <h4>
             <b> Rajasthan University</b>
             </h4>
-            <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">B.Tech</button>
+            <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#ug">B.Tech</button>
 
   <!-- Modal -->
   <div class="modal fade" id="myModal" role="dialog">
@@ -663,7 +664,7 @@
       
     </div>
   </div></span>
-  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Diploma</button>
+  <span><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#dip">Diploma</button>
 
   <!-- Modal -->
   <div class="modal fade" id="myModal" role="dialog">
